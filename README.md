@@ -2,3 +2,5 @@ Git is a free and open-source distributed version control system (VCS) used prim
 
 
 GitHub is a cloud-based platform that acts as a hosting service for Git repositories, allowing developers to store, manage, track, and share their code. It is the largest code repository in the world, primarily used for version control, enabling collaboration, code reviews, and project management for software development teams.
+
+There is a git and github workshop today
